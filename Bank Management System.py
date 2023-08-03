@@ -462,5 +462,4 @@ while RUUN==True:
 #-----------------------------------------------------------------------------------------------
 # CREATED BY:
 #SHAURYA KUSHWAH XII-A
-#UNDER THE GUIDANCE AND DIRECTIONS OF Ms. SEEMA SHARMA
 
